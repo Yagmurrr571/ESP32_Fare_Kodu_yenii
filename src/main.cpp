@@ -17,7 +17,7 @@ void loop() {
     if (komut == '1') bleMouse.move(0, -10); 
     if (komut == '2') bleMouse.move(0, 10);  
     if (komut == '3') bleMouse.move(-10, 0); 
-    if (komut == '4') bleMouse.move(10, 0);  
+  if (komut == '4') bleMouse.move(10, 0);  
     
     // Sağ tık komutu (6 tuşuna basınca)
     if (komut == '6') { 
