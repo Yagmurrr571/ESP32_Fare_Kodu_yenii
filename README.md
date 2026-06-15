@@ -1,4 +1,4 @@
-# ESP32 Bluetooth Fare Projesi  
+<img width="1890" height="1015" alt="image" src="https://github.com/user-attachments/assets/d95c25e0-81cb-430f-82a7-95e39a9da8e4" /># ESP32 Bluetooth Fare Projesi  
   
 Bu proje, ESP32 geliştirme kartını kullanarak Bluetooth üzerinden çalışan kablosuz bir fare/sunum kumandası yapmayı hedefler.  
   
@@ -35,5 +35,5 @@ Projenin temel işlevlerini tetiklemek için terminalden gönderilen komutlar:
 - `BleMouse.h`: Fare taklidi yapmamızı sağlayan temel kütüphane.  
 - `BluetoothSerial.h`: Seri veri iletimi için standart kütüphane.
 - ## Projenin Çalışma Videosu
-![Çalışma Videosu](https://youtube.com/shorts/wgcYuhiUHbM?si=QmhvJbrrcrDZMxxv)
+![Çalışma Videosu:https://youtube.com/shorts/wgcYuhiUHbM?si=ATAEo5og1QvtOM4E](https://youtube.com/shorts/wgcYuhiUHbM?si=QmhvJbrrcrDZMxxv)
 PROJE SAHİBİ:Yağmur Kalkan
