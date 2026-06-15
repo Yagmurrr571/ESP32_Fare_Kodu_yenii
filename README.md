@@ -35,5 +35,6 @@ Projenin temel işlevlerini tetiklemek için terminalden gönderilen komutlar:
 - `BleMouse.h`: Fare taklidi yapmamızı sağlayan temel kütüphane.  
 - `BluetoothSerial.h`: Seri veri iletimi için standart kütüphane.
 - ## Projenin Çalışma Videosu
-![Çalışma Videosu:https://youtube.com/shorts/wgcYuhiUHbM?si=ATAEo5og1QvtOM4E](https://youtube.com/shorts/wgcYuhiUHbM?si=QmhvJbrrcrDZMxxv)
+![Çalışma Videosu:](https://youtube.com/shorts/wgcYuhiUHbM?si=QmhvJbrrcrDZMxxv)
+https://youtube.com/shorts/wgcYuhiUHbM?si=ATAEo5og1QvtOM4E 
 PROJE SAHİBİ:Yağmur Kalkan
